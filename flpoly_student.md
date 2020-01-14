@@ -1,23 +1,23 @@
-## First Name Last Name
+## Mark Payne
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Applications for business
 
-- Course 3
+- Purchasing and Supply Chain Management
 
-- Course 4
+- Intro to Microeconomics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
+- Staying active 
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- TV & Movies 
